@@ -1,3 +1,2 @@
-src/*.js linguist-vendored=false
-src/*.css linguist-vendored=false
+src/main/webapp/* linguist-vendored=false
 src/*.java linguist-vendored
