@@ -20,9 +20,14 @@
 前端采用bootstrap + video.js，后端采用jdbsTemplate封装简单查询sql。
 
 ## 界面截图
+文件列表页面
 
 ![](sqlite/dlnawebui-01.png)
 
+图片查看
+
 ![](sqlite/dlnawebui-02.png)
+
+视频查看
 
 ![](sqlite/dlnawebui-03.png)
