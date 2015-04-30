@@ -15,3 +15,14 @@
 ## 为何做这个小项目？
 由于一些资源都放在移动硬盘上，特别是岛国片，但每次想看的时候还得打开电脑，或者拷贝到手机上看。而我自己有个很小的服务器（Radxa或者Raspberry Pi），里面装了一些服务，因此装上MiniDlna，安装可参考地址：<http://www.2fz1.com/post/raspberry-pi-minidlna-nas-ipad/>   
 之后发布这个小项目，就可以直接在浏览器里看图片和视频。
+
+## 使用的技术
+前端采用bootstrap + video.js，后端采用jdbsTemplate封装简单查询sql。
+
+## 界面截图
+
+![](sqlite/dlnawebui-01.png)
+
+![](sqlite/dlnawebui-02.png)
+
+![](sqlite/dlnawebui-03.png)

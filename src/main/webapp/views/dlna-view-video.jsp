@@ -14,10 +14,10 @@
   </script>
 </head>
 <body>
-  <nav >
+  <nav style="margin:20px;">
   <video id="dlna_video" class="video-js vjs-default-skin vjs-big-play-centered"
   		width="${WIDTH}" height="${HEIGHT}"
-  		style="margin:20px auto;"
+  		style="margin:0px auto;"
       	poster="/image/oceans-clip.png"
       	data-setup='{ "controls": true, "autoplay": true, "preload": "auto" }'>
     <source src="${URL}" type='video/mp4' />
