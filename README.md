@@ -28,6 +28,3 @@
 
 ![](sqlite/dlnawebui-02.png)
 
-视频查看
-
-![](sqlite/dlnawebui-03.png)
